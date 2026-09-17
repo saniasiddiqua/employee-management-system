@@ -76,4 +76,4 @@ employee-management-system
 
 **Sania Siddiqua**
 
-Aspiring Web Developer | SQL Learner
+ - SQL Learner
